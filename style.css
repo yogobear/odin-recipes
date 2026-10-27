@@ -1,0 +1,60 @@
+h1 {
+font-family: 'Great Vibes', Geneva, Verdana, sans-serif;
+background-color: #FFD9E6;
+padding: 40px;
+margin-top: 0px;
+text-align: center;
+font-size: 60px;
+
+}
+
+.no-bullets {
+
+    list-style-type: none;
+    font-size: 20px;
+}
+
+li { 
+    margin-bottom: 20px;
+}
+.recipe-link {
+    color: purple;
+
+}
+
+.emoji {
+    margin-right: 30px;
+}
+
+body {
+    
+   background-image: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url('images/sakura.jpeg');
+   background-size: 300px auto;
+   margin: 0;
+   padding: 0;
+}
+
+html { 
+   margin: 0;
+   padding: 0;
+ 
+}
+
+.ingredients-card {
+    background-color: white;
+}
+
+.wrap {
+
+margin: 35px;
+padding: 10px 20%;
+font-size: 20px;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 400px;
+    height: auto;
+}
